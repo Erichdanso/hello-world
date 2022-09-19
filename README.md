@@ -1,3 +1,4 @@
 # hello-world
-My first repository 
-Hppy to be her
+# My first repository
+# Am happy to be on this amazing platform
+
